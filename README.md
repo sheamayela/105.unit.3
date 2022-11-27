@@ -1,8 +1,6 @@
 # 105.unit.3
 This is a repository containing instructional material and sample datasets for Professor Gotzler's section of English 105 at the University of Carolina Chapel Hill.
-
 The repository contains 2 python notebooks covering basic topics and coding with Python 3 and beginner modules on using panda's package for data analysis. 
-
 These materials have been adapted from the excellent lessons created by the staff at the research hub at UNC Davis Library.
 
 This data is from an excel sheet titled County Health Data from the years 2014 to 2015. It includes public health data from each state in the United States. It also includes statistics for the division, county, and region of each state. The focus of the data on this sheet is to focus on the most prevalent ways people's health in the US has been affected. It also includes a variety of data specific to physical or mental health and adults or children.
