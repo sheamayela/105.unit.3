@@ -19,7 +19,7 @@ Food insecurity is when a household is unable to feed every member of the house.
 
 ## Data Visualization
 This graph includes five counties with the highest food environment index and five counties with the lowest food environment index. The dependent variables are obesity and diabetes. The graph interprets that the higher a county's food index the lower diabetes and obesity numbers and the lower a country's food environmental index the higher diabetes and obesity numbers.
-![Data Visualization](https://user-images.githubusercontent.com/118216082/204191307-8a88a536-a7c2-4729-bdac-464cffad4125.png)
+![Data Visualizations](https://user-images.githubusercontent.com/118216082/204192671-8ec5986b-8478-41f5-8128-0be799bcc62b.jpeg)
 ## Acknowledgements and Licensing
 This data repository was created for a Unit 3 project for the course English 105 with Professor Gotzler at the University of North Carolina at Chapel Hill. This Data was provided by the UNC library attended for students to manipulate. 
 ## Contact Information
